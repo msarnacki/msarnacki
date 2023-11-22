@@ -41,7 +41,7 @@
     <tr>
         <td width = "500">
             <img align="left"
-            src="https://github-readme-streak-stats.herokuapp.com?user=msarnacki&theme=transparent&border_radius=45"
+            src="https://github-readme-streak-stats.herokuapp.com?user=msarnacki&theme=transparent&border_radius=45&mode=weekly"
             alt="Streak"/>
         </td>
         <td width = "500">
