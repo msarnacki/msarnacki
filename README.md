@@ -20,7 +20,7 @@
             src="https://github-readme-stats.vercel.app/api?username=msarnacki&include_all_commits=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&rank_icon=github"
             alt="Github stats"/>
         </td>
-        <td>
+        <td width = "500">
             <a href="https://github.com/msarnacki/flashscore-scraper">
             <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=flashscore-scraper&theme=transparent" />
             </a>
@@ -32,19 +32,19 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=msarnacki&langs_count=5&size_weight=0&count_weight=1&layout=compact&theme=transparent"
             alt="Most used languages"/>
         </td>
-        <td>
+        <td width = "500">
             <a href="https://github.com/msarnacki/taxi-fare-prediction">
             <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=taxi-fare-prediction&theme=transparent"/>
             </a>
         </td>
     </tr>
     <tr>
-        <td>
+        <td width = "500">
             <img align="left"
             src="https://github-readme-streak-stats.herokuapp.com?user=msarnacki&theme=transparent&border_radius=45"
             alt="Streak"/>
         </td>
-        <td>
+        <td width = "500">
             <a href="https://github.com/msarnacki/online-news-popularity-classification">
             <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=online-news-popularity-classification&theme=transparent"/>
             </a>
