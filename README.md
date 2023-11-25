@@ -1,4 +1,3 @@
-
 **Hello there! :wave:**
 
 <p align="left">
@@ -50,7 +49,32 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td width = "500">
+            <a href="https://github.com/msarnacki/YouTubeVid_Summary_ChatGPT">
+            <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=YouTubeVid_Summary_ChatGPT&theme=transparent"/>
+            </a>
+        </td>
+        <td width = "500">
+            <a href="https://github.com/msarnacki/voice_assistant">
+            <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=voice_assistant&theme=transparent"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width = "500">
+            <a href="https://github.com/msarnacki/coronavirus-COVID19">
+            <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=coronavirus-COVID19&theme=transparent"/>
+            </a>
+        </td>
+        <td width = "500">
+            <a href="https://github.com/msarnacki/sudoku-solver">
+            <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=msarnacki&repo=sudoku-solver&theme=transparent"/>
+            </a>
+        </td>
+    </tr>
 </table>
+
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msarnacki&title=Experience,PullRequest,Commit,Repositories,Stars,Followers&theme=&margin-w=15&margin-h=15" alt="msarnacki" /></a> </p>
 
@@ -60,19 +84,3 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> 
 </p>
-
-
-<!--
-**msarnacki/msarnacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
